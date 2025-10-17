@@ -1,23 +1,23 @@
 <br>👋 Hi, I'm Meshech Johnathan </br>
 
-🚀 Aspiring Software Engineer | 🎯 Full-Stack Developer | ⚙️ DevOps Enthusiast
-🎓 2nd-Year IT Undergraduate (BSc in Information Technology — Graduating 2028)
-🌱 Passionate about building efficient, scalable systems and automating workflows to enhance productivity and innovation. 
+<br>🚀 Aspiring Software Engineer | 🎯 Full-Stack Developer | ⚙️ DevOps Enthusiast<br>
+<br>🎓 2nd-Year IT Undergraduate (BSc in Information Technology — Graduating 2028)<br>
+<br>🌱 Passionate about building efficient, scalable systems and automating workflows to enhance productivity and innovation.<br>
 
-🛠️ <br>Tech Stack & Skills</br>
+<br>🛠️ Tech Stack & Skills</br>
 
-💻 Programming Languages:
-C, C++, C#, Java, Python, PHP, JavaScript, TypeScript, HTML, CSS, Kotlin, PowerShell, R studio, Android studio
-🎨 Frontend Development:
-React.js, Next.js, Angular, AngularJS, Flutter, React Native, Bootstrap, Tailwind CSS
-⚙️ Backend Development:
-Node.js, Express.js, PHP, Java (Maven & Spring), Apache Tomcat
-🗄️ Databases:
-MySQL, MongoDB, Microsoft SQL Server
-🧰 Tools & Platforms:
-Git, GitHub, Docker (basics), Apache, Figma, Canva, Adobe Lightroom
-💻 Operating Systems:
-Windows, Linux (Ubuntu)
+<br>💻 Programming Languages:<br>
+<br>C, C++, C#, Java, Python, PHP, JavaScript, TypeScript, HTML, CSS, Kotlin, PowerShell, R studio, Android studio<br>
+<br>🎨 Frontend Development:<br>
+<br>React.js, Next.js, Angular, AngularJS, Flutter, React Native, Tailwind CSS<br>
+<br>⚙️ Backend Development:<br>
+<br>Node.js, Express.js, PHP, Java (Maven & Spring), Apache Tomcat<br>
+<br>🗄️ Databases:<br>
+<br>MySQL, MongoDB, Microsoft SQL Server<br>
+<br>🧰 Tools & Platforms:<br>
+<br>Git, GitHub, Docker (basics), Apache, Figma, Canva, Adobe Lightroom<br>
+<br>💻 Operating Systems:<br>
+<br>Windows, Linux (Ubuntu)<br>
 
 🚀 <br>Currently Exploring</br>
 ☁️ Cloud Computing & DevOps

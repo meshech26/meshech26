@@ -5,27 +5,26 @@
 <br>🌱 Passionate about building efficient, scalable systems and automating workflows to enhance productivity and innovation.
 
 <br>🛠️ Tech Stack & Skills</br>
+<br>💻 Programming Languages:
+<br>C, C++, C#, Java, Python, PHP, JavaScript, TypeScript, HTML, CSS, Kotlin, PowerShell, R studio, Android studio
+<br>🎨 Frontend Development:
+<br>React.js, Next.js, Angular, AngularJS, Flutter, React Native, Tailwind CSS
+<br>⚙️ Backend Development:
+<br>Node.js, Express.js, PHP, Java (Maven & Spring), Apache Tomcat
+<br>🗄️ Databases:
+<br>MySQL, MongoDB, Microsoft SQL Server
+<br>🧰 Tools & Platforms:
+<br>Git, GitHub, Docker (basics), Apache, Figma, Canva, Adobe Lightroom
+<br>💻 Operating Systems:
+<br>Windows, Linux (Ubuntu)
 
-<br>💻 Programming Languages:<br>
-<br>C, C++, C#, Java, Python, PHP, JavaScript, TypeScript, HTML, CSS, Kotlin, PowerShell, R studio, Android studio<br>
-<br>🎨 Frontend Development:<br>
-<br>React.js, Next.js, Angular, AngularJS, Flutter, React Native, Tailwind CSS<br>
-<br>⚙️ Backend Development:<br>
-<br>Node.js, Express.js, PHP, Java (Maven & Spring), Apache Tomcat<br>
-<br>🗄️ Databases:<br>
-<br>MySQL, MongoDB, Microsoft SQL Server<br>
-<br>🧰 Tools & Platforms:<br>
-<br>Git, GitHub, Docker (basics), Apache, Figma, Canva, Adobe Lightroom<br>
-<br>💻 Operating Systems:<br>
-<br>Windows, Linux (Ubuntu)<br>
+<br>🚀 Currently Exploring</br>
+<br>☁️ Cloud Computing & DevOps
+<br>📈 Scalable Web Architecture
+<br>🔢 Mathematics for Computing
+<br>💡 Software Engineering Principles
 
-🚀 <br>Currently Exploring</br>
-☁️ Cloud Computing & DevOps
-📈 Scalable Web Architecture
-🔢 Mathematics for Computing
-💡 Software Engineering Principles
-
-💡 <b>What I Do</b>:<br>
+<br>💡 What I Do</b>:<br>
 ✅ Develop Full-Stack Applications 🌐<br>
 ✅ Debug & Optimize Code 🐞<br>
 ✅ Explore Cloud & DevOps Solutions ☁️<br>

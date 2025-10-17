@@ -1,8 +1,8 @@
 <br>👋 Hi, I'm Meshech Johnathan </br>
 
-<br>🚀 Aspiring Software Engineer | 🎯 Full-Stack Developer | ⚙️ DevOps Enthusiast<br>
-<br>🎓 2nd-Year IT Undergraduate (BSc in Information Technology — Graduating 2028)<br>
-<br>🌱 Passionate about building efficient, scalable systems and automating workflows to enhance productivity and innovation.<br>
+<br>🚀 Aspiring Software Engineer | 🎯 Full-Stack Developer | ⚙️ DevOps Enthusiast
+<br>🎓 2nd-Year IT Undergraduate (BSc in Information Technology — Graduating 2028)
+<br>🌱 Passionate about building efficient, scalable systems and automating workflows to enhance productivity and innovation.
 
 <br>🛠️ Tech Stack & Skills</br>
 

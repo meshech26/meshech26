@@ -87,14 +87,14 @@
 ---
 
 # 📊 <span style="color:#ff6ec7;">GitHub Stats</span>
-![](https://github-readme-stats.vercel.app/api?username=Mathu-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mathu-code&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathu-code&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=meshech26&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=meshech26&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=meshech26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 <span style="color:#ffd700;">GitHub Trophies</span>
-![](https://github-profile-trophy.vercel.app/?username=Mathu-code&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=meshech26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -104,10 +104,10 @@
 ---
 
 ### 🔝 <span style="color:#ffb347;">Top Contributed Repo</span>
-![](https://github-contributor-stats.vercel.app/api?username=Mathu-code&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=meshech26&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Mathu-code&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=meshech26&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

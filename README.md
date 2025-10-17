@@ -1,7 +1,7 @@
-<br>👋 Hi, I'm Mathuran </br>
+<br>👋 Hi, I'm Meshech Johnathan </br>
 
 🚀 Aspiring Software Engineer | 🎯 Full-Stack Developer | ⚙️ DevOps Enthusiast
-🎓 2nd-Year IT Undergraduate (BSc in Information Technology — Graduating 2027)
+🎓 2nd-Year IT Undergraduate (BSc in Information Technology — Graduating 2028)
 🌱 Passionate about building efficient, scalable systems and automating workflows to enhance productivity and innovation. 
 
 🛠️ <br>Tech Stack & Skills</br>

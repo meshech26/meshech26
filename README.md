@@ -87,9 +87,10 @@
 ---
 
 # 📊 <span style="color:#ff6ec7;">GitHub Stats</span>
-![](https://github-readme-stats.vercel.app/api?username=meshech26&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://your-vercel-instance.vercel.app/api?username=meshech26&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=meshech26&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meshech26&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+https://your-vercel-instance.vercel.app/api?username=meshech26&count_private=true
 
 ---
 
